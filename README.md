@@ -1,4 +1,3 @@
-# TICC
-Hola
-klk menores
+luis... lo q te ha dicho tirso
+
 
