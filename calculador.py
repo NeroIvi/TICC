@@ -21,3 +21,4 @@ pantalla = Label(root, text="A").grid(row=0, column=0, columnspan=6)
 root.mainloop()
 
 
+j
