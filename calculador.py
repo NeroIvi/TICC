@@ -21,4 +21,5 @@ for r in range(1, 4):
 pantalla = Label(root, text="A").grid(row=0, column=0, columnspan=6)
 root.mainloop()
 
-
+luis guay
+j
