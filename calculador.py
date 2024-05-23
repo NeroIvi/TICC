@@ -12,12 +12,14 @@
 from tkinter import *
 root = Tk( )
 b=0
-for r in range(1, 6):
-    for c in range(6):
+for r in range(1, 4):
+    for c in range(3):
         b=b+1
         Button(root, text=str(b),
         borderwidth=1 ).grid(row=r,column=c)
+
 pantalla = Label(root, text="A").grid(row=0, column=0, columnspan=6)
 root.mainloop()
 
-
+luis guay
+j
