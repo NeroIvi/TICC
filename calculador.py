@@ -17,6 +17,7 @@ for r in range(1, 4):
         b=b+1
         Button(root, text=str(b),
         borderwidth=1 ).grid(row=r,column=c)
+
 pantalla = Label(root, text="A").grid(row=0, column=0, columnspan=6)
 root.mainloop()
 
